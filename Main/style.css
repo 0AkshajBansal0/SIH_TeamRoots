@@ -1,7 +1,8 @@
 body {
     text-align: center;
-  }
-  canvas {
+}
+
+canvas {
     display: block;
     width: 280px;
     height: 210px;
@@ -9,11 +10,11 @@ body {
     padding: 0;
     border: none;
     background-color: black;
-  }
-  button {
+}
+
+button {
     display: block;
     font-size: inherit;
     margin: auto;
     padding: 0.6em;
-  }
-  
+}
