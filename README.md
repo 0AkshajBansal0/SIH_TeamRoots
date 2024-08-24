@@ -7,4 +7,5 @@ Tasks:
     2.Frontend
 
 Issues:
+    fixing text in sliders
     
